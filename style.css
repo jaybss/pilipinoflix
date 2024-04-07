@@ -1,0 +1,80 @@
+body {
+    font-size: 15pt;
+    background-color:black ;
+}
+
+.title{
+  color: lightgray  ;
+  text-shadow:2px 2px 5px black ;
+  font-family: "Oswald", sans-serif;
+  font-weight:450;
+  font-style: normal;
+  letter-spacing:4px ;
+}
+
+.buttons{
+  text-align: right;
+  background-color: darkred;
+  margin:0 ;
+  padding-top:25px;
+  padding-bottom: 25px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius:14px ;
+  border: 3px solid lightgray;
+  font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+a{
+  color: white;
+}
+.Movies{
+  color: white;
+}
+.videos{
+  
+  background-color: darkred;
+  margin:2px ;
+  padding-top:10px ;
+  padding-bottom:10px;
+  padding-right:2px; 
+  padding-left:2px;
+  border: 2px solid lightgray;
+  border-radius: 7px;
+  
+  
+}
+td:hover{
+  background-color: darkred ;
+  
+}
+  
+button{
+  background-color: lightgray;
+  color: black;
+  
+}
+button:hover{
+  
+  background-color: darkred ;
+  color: black;
+}
+input{
+  background-color: lightgray ;
+  color: darkred ;
+  
+}
+.budget{
+  color: lightgray;
+  font-size:50px;
+  font-family: "Oswald", sans-serif;
+  font-weight:450;
+  font-style: normal;
+  letter-spacing:4px ;
+}
+a:hover{
+  background-color: red ;
+  color: black;
+  
+}
